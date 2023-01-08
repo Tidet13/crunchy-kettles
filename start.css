@@ -1,0 +1,17 @@
+body{
+    background-image: url(background.jpg);
+}
+@font-face {
+    font-family: Heebo;
+    src: url(http://127.0.0.1:5500/fonts/Heebo-Regular.ttf) format("truetype");
+}
+a:link    {color:#c0c0c0; text-decoration: none;}
+a:visited {color:#c0c0c0; text-decoration: none;}
+a:hover   {color:#c0c0c0; text-decoration: none;}
+a:active  {color:#c0c0c0; text-decoration: none;}
+.bildlink{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: #c0c0c0;
+}
